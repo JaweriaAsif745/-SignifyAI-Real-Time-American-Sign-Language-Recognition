@@ -73,7 +73,8 @@ SignifyAI: Real-Time American Sign Language Recognition/
 ## 🎬 Demo Videos
 
 📸 **1. Website Walkthrough:**  
-👉   https://github.com/user-attachments/assets/73fef755-8e1f-4bc5-b384-34790c39c9a2
+👉   
+https://github.com/user-attachments/assets/73fef755-8e1f-4bc5-b384-34790c39c9a2
 
 🖼️ **2. Upload Recognition (Image Prediction):**  
 👉  https://github.com/user-attachments/assets/2099a1af-6b1d-453a-870c-20049fd8fc22
