@@ -73,8 +73,7 @@ SignifyAI: Real-Time American Sign Language Recognition/
 ## 🎬 Demo Videos
 
 📸 **1. Website Walkthrough:**  
-👉   
-https://github.com/user-attachments/assets/73fef755-8e1f-4bc5-b384-34790c39c9a2
+👉  https://github.com/user-attachments/assets/73fef755-8e1f-4bc5-b384-34790c39c9a2
 
 🖼️ **2. Upload Recognition (Image Prediction):**  
 👉  https://github.com/user-attachments/assets/2099a1af-6b1d-453a-870c-20049fd8fc22
@@ -125,7 +124,28 @@ Allow camera permissions.
 Show your ASL gesture in front of the webcam.
 See live predictions appear instantly.
 ---
+## 🖼️📸 Screenshots
+## 🏠 Home Page
+<img width="1521" height="1704" alt="127 0 0 1_5000_ (1)" src="https://github.com/user-attachments/assets/cfc77130-0423-4121-9eb3-f5025782c425" />
 
+## 🧠 Alphabets Page
+<img width="1886" height="892" alt="image" src="https://github.com/user-attachments/assets/e5f040d5-459c-498b-9937-4db96ad44b71" />
+
+## 📹 Quiz Page
+<img width="1689" height="1208" alt="127 0 0 1_5000_quiz" src="https://github.com/user-attachments/assets/bc0ec5b6-72f1-42c2-8fd4-d53c7ac66a95" />
+
+## 📤 Image Upload Page
+<img width="1909" height="871" alt="image" src="https://github.com/user-attachments/assets/77243686-e2ad-4258-bd18-e39a2214e4fe" />
+
+## 📤 Image Result Page
+<img width="783" height="555" alt="image" src="https://github.com/user-attachments/assets/4a86fabe-5ba9-4f59-9e1e-2dd4e68130b3" />
+
+
+## 🤖 Webcam Detection
+<img width="1064" height="513" alt="image" src="https://github.com/user-attachments/assets/12e8a47b-4594-4023-b8f7-4823732f90a9" />
+
+
+---
 ## 🧰 Tech Stack
 
 | Category       | Tools                 |
