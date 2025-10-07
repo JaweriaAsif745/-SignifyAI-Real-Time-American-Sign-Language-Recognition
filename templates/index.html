@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ASL Learning Platform</title>
+    <link rel="stylesheet" href="../static/style.css" />
+  </head>
+  <body>
+    <!-- Navigation Menu -->
+    <nav class="Navigation">
+      <!-- Left side: links -->
+      <div>
+        <a href="{{url_for('home')}}">Home</a> |
+        <a href="{{url_for('alphabets')}}">Alphabets</a> |
+        <a href="{{url_for('quiz')}}">Quiz</a> |
+        <a href="{{url_for('recognize')}}">Recognition</a>|
+        <a href="{{url_for('upload')}}">Image Recognition</a>
+      </div>
+
+      <!-- Right side: logo -->
+      <div>
+        <img
+          src="../static/images/lo.png"
+          alt="Logo"
+          style="height: 60px; margin-right: 30px"
+        />
+      </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+      <h1>Welcome to ASL Learning Hub 🤟</h1>
+      <p>
+        Learn American Sign Language (ASL) step by step. From alphabets to
+        interactive quizzes, this platform is designed to make learning fun,
+        easy, and engaging.
+      </p>
+      <a href="{{url_for('alphabets')}}" class="btn">Start Learning</a>
+    </section>
+
+    <!-- About Section -->
+    <section class="about">
+      <h2>Why Learn ASL?</h2>
+      <p>
+        American Sign Language is a powerful way to communicate with millions of
+        people around the world. By learning ASL, you not only break
+        communication barriers but also become part of an inclusive community.
+      </p>
+
+      <div class="cards">
+        <div class="info-card">
+          <h3>📖 Easy Alphabets</h3>
+          <p>
+            Start with the basics – learn ASL alphabets through clear visuals
+            and structured sets.
+          </p>
+        </div>
+        <div class="info-card">
+          <h3>🧩 Fun Quizzes</h3>
+          <p>
+            Test your knowledge with interactive quizzes that make learning
+            enjoyable.
+          </p>
+        </div>
+        <div class="info-card">
+          <h3>🌍 Inclusive Learning</h3>
+          <p>
+            Join a movement that connects people across languages and cultures.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Call To Action -->
+    <section class="cta">
+      <h2>Ready to Start Your ASL Journey?</h2>
+      <p>
+        Explore the alphabets, test yourself with quizzes, and become confident
+        in ASL.
+      </p>
+      <a href="{{url_for('quiz')}}" class="btn">Take a Quiz</a>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+      <p>&copy; 2025 ASL Learning Hub | Made with ❤️ to spread inclusivity</p>
+    </footer>
+  </body>
+</html>
