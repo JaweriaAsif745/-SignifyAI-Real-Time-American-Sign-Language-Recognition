@@ -1,4 +1,4 @@
-# ✋ SignifyAI: Real-Time American Sign Language Recognition
+# ✋ SignifyAI: Real-Time American Sign Language Recognition 
 
 ### 📌 Overview
 
